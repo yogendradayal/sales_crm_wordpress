@@ -1,85 +1,104 @@
-=== DX Sales CRM ===
-Author: Yogendra Dayal
-Author URI: https://github.com/yogendradayal
-Contributors: yogendradayal
+# 📊 DX Sales CRM – WordPress Plugin
 
-DX Sales CRM – A complete WordPress CRM solution to manage sales, customers, and business pipelines from your WordPress dashboard.
+**Author**: [Yogendra Dayal](https://github.com/yogendradayal)  
+**Contributors**: yogendradayal
 
-== Description ==
+> A complete WordPress CRM solution to manage sales, customers, and business pipelines directly from your WordPress dashboard.
+
+---
+
+## 📋 Description
 
 **DX Sales CRM** is a simple yet powerful plugin designed to help small businesses and sales teams manage their entire CRM operations inside WordPress.
 
-This plugin provides a clean dashboard, contact and project management, sales tracking, and downloadable reporting, all integrated into your WP admin. With an intuitive interface and customizable features, it adapts to your sales workflow without steep learning curves.
+With an intuitive interface and customizable features, it adapts to your sales workflow without the steep learning curve. No external SaaS needed—everything is managed locally.
 
-No external SaaS platform needed—manage everything locally in WordPress.
+---
 
-= 🔧 Core Features =
+## 🔧 Core Features
 
-- Manage customers, contacts, and sales leads
-- Create, view, and export sales reports
-- Sales pipeline tracking and insights
-- Dashboard with recent activity log
-- Easy-to-use UI inside WP Admin
-- CSV Export and search filters
-- Custom post types and REST API support
+- 🧑‍💼 Manage customers, contacts, and sales leads  
+- 📑 Create, view, and export detailed sales reports  
+- 📈 Track sales pipelines with visual insights  
+- 🖥️ Clean dashboard with recent activity log  
+- 🔍 Advanced filtering and search options  
+- 📤 CSV export for reports  
+- 🔗 REST API support  
+- 🧩 Built with custom post types, hooks & templates
 
-= 🔐 Why Choose DX Sales CRM? =
+---
 
-- Fully self-hosted – no data leaves your server
-- Mobile responsive admin pages
-- Clean UI with minimal dependencies
-- Extendable via hooks and templates
-- REST API support for headless or external integrations
+## 🔐 Why Choose DX Sales CRM?
 
-== Installation ==
+- ✅ 100% self-hosted — no third-party SaaS
+- 📱 Fully mobile responsive
+- 🧼 Clean, minimal UI inside WP admin
+- 💡 Developer-friendly (hooks, REST API, templates)
+- 🧠 Extendable for headless CMS & integrations
 
-1. Upload the plugin folder to the `/wp-content/plugins/` directory or install via the WP dashboard.
-2. Activate the plugin from the “Plugins” menu in WordPress.
-3. Visit “Sales CRM” from the admin sidebar to get started.
+---
 
-== Frequently Asked Questions ==
+## 🚀 Installation
 
-= What PHP and WP versions are required? =
-You must have PHP 7.4+ and WordPress 5.9 or above.
+1. Download or clone this repository.
+2. Upload the plugin folder to `/wp-content/plugins/` or install via the WP Dashboard.
+3. Activate via the **Plugins** menu in WordPress.
+4. Visit **Sales CRM** in the WP admin sidebar to get started.
 
-= Is this plugin mobile-friendly? =
-Yes, the dashboard and CRM pages are fully responsive and optimized for tablet and mobile use.
+---
 
-= Will this plugin work with my theme? =
-Yes, it uses WordPress admin UI standards, so it's theme-agnostic.
+## ❓ Frequently Asked Questions
 
-= Can I export reports? =
-Yes, detailed sales and contact reports can be generated and downloaded as CSV files.
+**Q: What PHP and WP versions are required?**  
+A: PHP 7.4+ and WordPress 5.9 or later.
 
-= Is it extendable? =
-Yes, the plugin is developer-friendly with filters, actions, and REST API endpoints for further customization.
+**Q: Is this plugin mobile-friendly?**  
+A: Yes, the dashboard and CRM views are responsive and optimized for mobile/tablets.
 
-## Screenshots
+**Q: Will this plugin work with my theme?**  
+A: Yes. It uses WordPress core admin UI — it's theme-agnostic.
 
-### 1. Dashboard
-![Dashboard](/assets/screenshot-1.png)
+**Q: Can I export sales data or reports?**  
+A: Yes, you can download CSV reports for contacts, projects, and sales.
 
-### 2. Activity Log
-![Activity Log](/assets/screenshot-2.png)
+**Q: Is it developer-friendly?**  
+A: Yes, with full support for actions, filters, and REST endpoints.
 
-### 3. Projects Section
-![Projects](/assets/screenshot-3.png)
+---
 
-### 4. Reports Export
-![Reports](/assets/screenshot-4.png)
+## 🖼️ Screenshots
 
+> Make sure your images are located in the `assets/` folder or root of your repository.
 
+### 1. Dashboard  
+![Dashboard](assets/screenshot-1.png)
 
-== Changelog ==
+### 2. Activity Log  
+![Activity Log](assets/screenshot-2.png)
 
-= 1.1 =
-* Added "Last Edited" timestamp support
-* Improved UI and mobile responsiveness
-* Tested with WP 6.7
+### 3. Projects Section  
+![Projects](assets/screenshot-3.png)
 
-= 1.0 =
-* Initial stable release with dashboard, customers, projects, and reports
+### 4. Reports Export  
+![Reports](assets/screenshot-4.png)
 
-== Upgrade Notice ==
-Version 1.1 improves compatibility with the latest WP version and adds new data tracking features.
+---
+
+## 📝 Changelog
+
+### v1.1
+- Added "Last Edited" timestamp support
+- Improved UI and mobile responsiveness
+- Tested with WordPress 6.7
+
+### v1.0
+- Initial release with customer, project, and report features
+
+---
+
+## ⚠️ Upgrade Notice
+
+**Version 1.1** improves compatibility with the latest WordPress release and introduces new data tracking capabilities.
+
+---
 
