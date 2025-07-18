@@ -57,16 +57,16 @@ Yes, the plugin is developer-friendly with filters, actions, and REST API endpoi
 ## Screenshots
 
 ### 1. Dashboard
-![Dashboard](./screenshot-1.png)
+![Dashboard](/assets/screenshot-1.png)
 
 ### 2. Activity Log
-![Activity Log](./screenshot-2.png)
+![Activity Log](/assets/screenshot-2.png)
 
 ### 3. Projects Section
-![Projects](./screenshot-3.png)
+![Projects](/assets/screenshot-3.png)
 
 ### 4. Reports Export
-![Reports](./screenshot-4.png)
+![Reports](/assets/screenshot-4.png)
 
 
 
