@@ -54,19 +54,20 @@ Yes, detailed sales and contact reports can be generated and downloaded as CSV f
 = Is it extendable? =
 Yes, the plugin is developer-friendly with filters, actions, and REST API endpoints for further customization.
 
-## 📸 Screenshots
+## Screenshots
 
-### Dashboard View
-![Dashboard](screenshot-1.png)
+### 1. Dashboard
+![Dashboard](./screenshot-1.png)
 
-### Activity Log
-![Activity Log](screenshot-2.png)
+### 2. Activity Log
+![Activity Log](./screenshot-2.png)
 
-### Projects View
-![Projects](screenshot-3.png)
+### 3. Projects Section
+![Projects](./screenshot-3.png)
 
-### Sales Reports
-![Reports](screenshot-4.png)
+### 4. Reports Export
+![Reports](./screenshot-4.png)
+
 
 
 == Changelog ==
