@@ -1,0 +1,219 @@
+.dx-crm-error{
+	color:red;
+}
+.crm-download-csv, .dxcrm-google-settings-save{
+	float:right;
+}
+.ui-timepicker-div dl dd { 
+	margin: 0px 0px 10px 65px !important; 
+}
+.ui_tpicker_second_label, .ui_tpicker_second {
+	display: none !important;
+}
+.dx-crm-add-project-link, .dx-crm-add-company-link, .dx-crm-add-customer-link {
+	vertical-align: top;
+}
+/********** CSS for Add Project and Add Project Type Popup Starts ***********/
+.dx-crm-pro-popup-content,
+.dx-crm-pro-type-popup-content {
+    margin: 0 auto;
+    min-height: 150px;    
+    display: none;
+	position: absolute;/* absolute*/
+	border: 1px solid #555555;
+	top: 3%;
+	text-align: left;
+	left: 0;
+	right: 0;
+	max-width: 400px;
+	background: none repeat scroll 0 0 #EEEEEE;
+	z-index:10002;
+	overflow: auto;
+	font-size: 13px;
+	box-shadow: 0 4px 30px #000000;
+	color: #000000;	
+}
+.dx-crm-pro-popup,
+.dx-crm-pro-type-popup {
+	max-height: 410px; 
+	overflow-y: inherit;
+	padding: 20px 10px;
+}
+.dx-crm-pro-popup-overlay,
+.dx-crm-pro-type-popup-overlay {
+	display: none;
+	background-color: #000000;
+    height: 100%;
+    left: 0;
+    opacity: 0.75;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
+.dx-crm-pro-header-title,
+.dx-crm-pro-type-header-title {
+    float: left;
+    padding: 6px 10px 0;
+}
+.dx-crm-pro-popup-close,
+.dx-crm-pro-type-popup-close {
+ 	float: right;
+    padding: 6px 10px 0;
+    text-align: right;
+}
+.dx-crm-pro-header,
+.dx-crm-pro-type-header {
+    background-color: #222222;
+    color: #CFCFCF;
+    min-height: 30px;
+    position: relative; 
+}
+.dx_crm_add_project_button, .dx_crm_add_more_project_button,
+.dx_crm_add_project_type_button, .dx_crm_add_more_project_type_button {
+	margin-top: 15px !important;
+}
+.dx-crm-pro-title-error,
+.dx-crm-pro-type-title-error {
+	display: none;
+	color: red;
+}
+/***************** CSS for Add Project Popup Ends******************/
+/********** CSS for Add company Popup Starts ***********/
+.dx-crm-comp-popup-content {
+    margin: 0 auto;
+    min-height: 150px;    
+    display: none;
+	position: absolute;/* absolute*/
+	border: 1px solid #555555;
+	top: 3%;
+	text-align: left;
+	left: 0;
+	right: 0;
+	max-width: 400px;
+	background: none repeat scroll 0 0 #EEEEEE;
+	z-index:10002;
+	overflow: auto;
+	font-size: 13px;
+	box-shadow: 0 4px 30px #000000;
+	color: #000000;	
+}
+.dx-crm-comp-popup {
+	max-height: 410px; 
+	overflow-y: inherit;
+	padding: 20px 10px;
+}
+.dx-crm-comp-popup-overlay {
+	display: none;
+	background-color: #000000;
+    height: 100%;
+    left: 0;
+    opacity: 0.75;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
+.dx-crm-comp-header-title {
+    float: left;
+    padding: 6px 10px 0;
+}
+.dx-crm-comp-popup-close {
+ 	float: right;
+    padding: 6px 10px 0;
+    text-align: right;
+}
+.dx-crm-comp-header {
+    background-color: #222222;
+    color: #CFCFCF;
+    min-height: 30px;
+    position: relative;    
+}
+.dx_crm_add_company_button {
+	margin-top: 15px !important;
+}
+
+.dx_crm_add_more_company_button {
+	margin-top: 15px !important;
+}
+.dx-crm-comp-title-error {
+	display: none;
+	color: red;
+}
+.dx-crm-comp-title-success, .dx-crm-cust-title-success, .dx-crm-pro-title-success {
+	display: none;
+	color: green;
+}
+/***************** CSS for Add company Popup Ends******************/
+/********** CSS for Add customer Popup Starts ***********/
+.dx-crm-cust-popup-content {
+    margin: 0 auto;
+    min-height: 150px;    
+    display: none;
+	position: absolute;/* absolute*/
+	border: 1px solid #555555;
+	top: 3%;
+	text-align: left;
+	left: 0;
+	right: 0;
+	max-width: 400px;
+	background: none repeat scroll 0 0 #EEEEEE;
+	z-index:10002;
+	overflow: auto;
+	font-size: 13px;
+	box-shadow: 0 4px 30px #000000;
+	color: #000000;	
+}
+.dx-crm-cust-popup {
+	max-height: 410px; 
+	overflow-y: inherit;
+	padding: 20px 10px;
+}
+.dx-crm-cust-popup-overlay {
+	display: none;
+	background-color: #000000;
+    height: 100%;
+    left: 0;
+    opacity: 0.75;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
+.dx-crm-cust-header-title {
+    float: left;
+    padding: 6px 10px 0;
+}
+.dx-crm-cust-popup-close {
+ 	float: right;
+    padding: 6px 10px 0;
+    text-align: right;
+}
+.dx-crm-cust-header {
+    background-color: #222222;
+    color: #CFCFCF;
+    min-height: 30px;
+    position: relative; 
+}
+.dx_crm_add_customer_button, .dx_crm_add_more_customer_button {
+	margin-top: 15px !important;
+}
+.dx-crm-cust-title-error, .dx-crm-cust-email-error {
+	display: none;
+	color: red;
+	line-height:20px;
+}
+
+.dxcrm_sales_customer #menu-posts-dxcrm_projects ul li:nth-child(3),
+.dxcrm_sales_customer #menu-posts-dxcrm_company ul li:nth-child(3),
+.dxcrm_sales_customer .page-title-action {
+	display: none;
+} 
+
+/***************** CSS for Add customer Popup Ends******************/
+
+/*** css for add projrct type button ***/
+.dx-crm-add-project-type {
+	margin-left: 5px;
+	vertical-align: middle;
+}

@@ -1,0 +1,49 @@
+/* 
+ * Custom Changes For chosen CSS Styles
+ * 
+ */
+.dx-crm-meta-field .chzn-container-single{
+    min-width: 25% !important;
+}
+.chzn-container, .chzn-container-single .chzn-single {
+	min-width: 50%;
+}
+.chzn-container-multi .chzn-choices {
+	border-radius: 5px;
+	padding: 5px;
+}
+.chzn-container-multi .chzn-choices li {
+	display: block !important;
+}
+.chzn-container-single .chzn-single {
+	background: white;
+	border-radius: 5px;
+	border: 1px solid #ececec;
+	box-shadow: none;
+	padding: 4px 15px;
+	height: auto;
+	font-size: 1rem;
+	line-height: 1.75;
+	transition: all 0.3s linear 0s;	
+}
+
+.chzn-drop {
+	width: 100% !important;
+}
+
+.chzn-container-single .chzn-search {
+	display:inline-block;
+	width:100%;
+}
+
+.chzn-search input {
+	width: 100%;
+}
+
+.chzn-container-single .chzn-single div b {
+	margin-top: 6px;
+}
+
+.chzn-container .chzn-drop {
+	border: 1px solid #ececec;
+}

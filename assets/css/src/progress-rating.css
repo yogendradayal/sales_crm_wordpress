@@ -1,0 +1,42 @@
+/******* EXAMPLE B *******/
+
+.rating-b .br-widget {
+    height: 25px;
+    width: 175px;
+}
+
+.rating-b .br-widget a {
+    display: block;
+    width: 28px;
+    height: 6px;
+    float: left;
+    background-color: #e3e3e3;
+    margin: 1px;
+}
+
+.rating-b .br-widget a.br-active,
+.rating-b .br-widget a.br-selected {
+    background-color: #59a6d6;
+}
+
+.rating-b .br-widget .br-current-rating {
+    line-height: 1.1;
+    float: left;
+    /*padding: 0 20px 0 20px;*/
+    color: #646464;
+}
+
+.rating-b .br-readonly a.br-active,
+.rating-b .br-readonly a.br-selected {
+    background-color: #cbcbcb;
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio : 1.5),
+(min-resolution: 192dpi) {
+    .rating-f .br-widget a {
+        background: url('../img/star@2x.png');
+        background-size: 24px 48px;
+    }
+}
