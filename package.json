@@ -1,0 +1,28 @@
+{
+  "name": "crm-system",
+  "version": "1.0.0",
+  "description": "WordPress solution for Customer Relationship Management system",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-sass": "^1.1.0",
+    "minify": "^2.0.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "uglify-js": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mbelchev@bitbucket.org/devrix/crm-system.git"
+  },
+  "author": "DevriX",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/devrix/crm-system#readme"
+}

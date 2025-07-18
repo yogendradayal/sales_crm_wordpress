@@ -1,0 +1,107 @@
+.sales-crm_page_dx-crm-activity-log img.avatar {
+	border-radius: 50%;
+	width: 75px;
+	height: 75px;
+	background: #333;
+	margin-right: 14px;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap p.user {
+	margin: 0;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap p.date {
+	margin: 0;
+	font-size: 12px;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap .summary {
+	margin: 0;
+	font-size: 14px;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap .summary p{
+	margin: 0;
+	padding: 0;
+	color: #83bd50;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap > p {
+	background: #FFC107;
+	padding: 10px 20px;
+	border-radius: 2px;
+	color: #fff;
+	font-size: 14px;
+}    
+
+.sales-crm_page_dx-crm-activity-log .wrap > table {
+	border: 1px solid #dedede;
+	margin-top: 10px;	
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap > table  > tbody > tr {
+	border-bottom: 1px solid #e0e0e0;
+	transition: 150ms;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap > table  > tbody > tr:hover {
+	background: #fff4d4;
+	transition: 150ms;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap > table {
+	background: #fff;	
+	border-collapse: collapse;
+}
+
+.sales-crm_page_dx-crm-activity-log .wrap > table  > tbody > tr > td > table {
+	padding: 10px 20px;
+}
+
+.sales-crm_page_dx-crm-activity-log .activity-log-error {
+	padding: 10px 20px;
+	background: #ffe8e8;
+	color: red;	
+	border: 1px solid #e0e0e0;
+	display: inline-block;
+	width: 100%;
+}
+
+.sales-crm_page_dx-crm-activity-log form {
+	max-width: 290px;
+	width: 100%;
+	float: left;
+    margin-bottom: 10px;
+}
+
+.pagination {
+clear:both;
+padding:20px 0;
+position:relative;
+font-size:11px;
+line-height:13px;
+float: right;
+}
+ 
+.pagination span, .pagination a {
+display:block;
+float:left;
+margin: 2px 2px 2px 0;
+padding:6px 9px 5px 9px;
+text-decoration:none;
+width:auto;
+color:#fff;
+background: #555;
+}
+ 
+.pagination a:hover{
+color:#fff;
+background: #3279BB;
+}
+ 
+.pagination .current{
+background: #3279BB;
+color:#fff;
+}
