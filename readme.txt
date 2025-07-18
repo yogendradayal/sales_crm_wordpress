@@ -1,97 +1,83 @@
-﻿=== DX Sales CRM ===
-Tags: crm, wp crm, customer relationship management, sales, customers
-Requires at least: 5.9
-Tested up to: 6.7
-Stable tag: 1.1
-Requires PHP: 7.4
-Author: DevriX
-License: GPLv2 or later
-Author URI: https://devrix.com
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Contributors: devrix, nofearinc, rollybueno
+=== DX Sales CRM ===
+Author: Yogendra Dayal
+Author URI: https://github.com/yogendradayal
+Contributors: yogendradayal
 
-DX Sales CRM is a WordPress solution for Customer Relationship Management. Manage your entire business directly from your WordPress dashboard.
+DX Sales CRM – A complete WordPress CRM solution to manage sales, customers, and business pipelines from your WordPress dashboard.
 
 == Description ==
 
-Empower your team and business with DX Sales CRM.
+**DX Sales CRM** is a simple yet powerful plugin designed to help small businesses and sales teams manage their entire CRM operations inside WordPress.
 
-DX Sales CRM is your gateway to better organization, enhanced productivity, and closer relationships with your clients. It centralizes your leads, customers, and business activities in one dashboard. Know the last interaction with a client, track sales closing each week, and generate business intelligence reports – all in one plugin.
+This plugin provides a clean dashboard, contact and project management, sales tracking, and downloadable reporting, all integrated into your WP admin. With an intuitive interface and customizable features, it adapts to your sales workflow without steep learning curves.
 
-This plugin is enterprise-ready and offers smart features to streamline your business processes.
+No external SaaS platform needed—manage everything locally in WordPress.
 
-🎥 Video Overview:
-[youtube https://www.youtube.com/watch?v=LxA1iJaOdTI]
+= 🔧 Core Features =
 
-== Features ==
+- Manage customers, contacts, and sales leads
+- Create, view, and export sales reports
+- Sales pipeline tracking and insights
+- Dashboard with recent activity log
+- Easy-to-use UI inside WP Admin
+- CSV Export and search filters
+- Custom post types and REST API support
 
-* Project and company profiles for each customer.
-* Searchable contact and customer records.
-* Generate and export progress reports.
-* Pipeline and sales tracking.
-* Account and contact management.
-* Real-time reports and dashboards.
-* Contracts and service tracking.
-* Self-service customer portal.
-* Mobile-optimized dashboard.
+= 🔐 Why Choose DX Sales CRM? =
 
-== Why Use DX Sales CRM? ==
-
-* **All-in-One CRM** – Combines marketing automation, contact center, and client management in one plugin.
-* **Custom Reports** – Export CSV reports on leads, clients, and pipelines.
-* **Scalable** – Supports both small businesses and large sales teams.
-* **Security First** – Powered by trusted PHP and MySQL frameworks.
-* **Premium Add-Ons** – Extend with affordable enhancements.
-
-> A CRM won’t magically grow your business, but without one, growth is much harder. Start with DX Sales CRM and grow smarter.
+- Fully self-hosted – no data leaves your server
+- Mobile responsive admin pages
+- Clean UI with minimal dependencies
+- Extendable via hooks and templates
+- REST API support for headless or external integrations
 
 == Installation ==
 
-1. Upload the plugin to `/wp-content/plugins/` or install via the WordPress admin panel.
-2. Activate the plugin via the 'Plugins' menu.
-3. Navigate to **DX Sales CRM** from the WordPress dashboard to get started.
+1. Upload the plugin folder to the `/wp-content/plugins/` directory or install via the WP dashboard.
+2. Activate the plugin from the “Plugins” menu in WordPress.
+3. Visit “Sales CRM” from the admin sidebar to get started.
 
 == Frequently Asked Questions ==
 
-= What are the system requirements? =
-- PHP 7.4 or higher (supports PHP 8.x)
-- WordPress 5.9+
+= What PHP and WP versions are required? =
+You must have PHP 7.4+ and WordPress 5.9 or above.
 
-= Is it mobile responsive? =
-Yes, it works on all modern smartphones and tablets.
+= Is this plugin mobile-friendly? =
+Yes, the dashboard and CRM pages are fully responsive and optimized for tablet and mobile use.
 
-= How secure is my data? =
-DX Sales CRM follows best security practices and relies on WordPress's robust permission system.
+= Will this plugin work with my theme? =
+Yes, it uses WordPress admin UI standards, so it's theme-agnostic.
 
-= What makes DX Sales CRM unique? =
-It blends CRM, sales reporting, and marketing automation in one plugin, without bloat.
+= Can I export reports? =
+Yes, detailed sales and contact reports can be generated and downloaded as CSV files.
+
+= Is it extendable? =
+Yes, the plugin is developer-friendly with filters, actions, and REST API endpoints for further customization.
 
 == Screenshots ==
 
-1. **CRM Dashboard** – Central hub with key insights  
+1. Dashboard View – Overview of CRM activity  
    ![screenshot-1](assets/screenshot-1.png)
 
-2. **Activity Log** – See all customer and sales activity  
+2. Activity Log – View all interactions and CRM actions  
    ![screenshot-2](assets/screenshot-2.png)
 
-3. **Projects and Clients** – Manage deals and contacts easily  
+3. Projects Page – Track customer projects and stages  
    ![screenshot-3](assets/screenshot-3.png)
 
-4. **Reports** – Export reports to CSV with one click  
+4. Reports – Export and filter sales reports  
    ![screenshot-4](assets/screenshot-4.png)
 
-> 📁 Place screenshots in the `/assets` folder as:
-- `screenshot-1.png`
-- `screenshot-2.png`
-- `screenshot-3.png`
-- `screenshot-4.png`
-
-== Upgrade Notice ==
+== Changelog ==
 
 = 1.1 =
-* Security improvements
-* Compatibility with WordPress 6.7
+* Added "Last Edited" timestamp support
+* Improved UI and mobile responsiveness
+* Tested with WP 6.7
 
-= 1.0.0 =
-* Initial release
+= 1.0 =
+* Initial stable release with dashboard, customers, projects, and reports
+
+== Upgrade Notice ==
+Version 1.1 improves compatibility with the latest WP version and adds new data tracking features.
 
