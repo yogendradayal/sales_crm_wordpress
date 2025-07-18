@@ -54,19 +54,20 @@ Yes, detailed sales and contact reports can be generated and downloaded as CSV f
 = Is it extendable? =
 Yes, the plugin is developer-friendly with filters, actions, and REST API endpoints for further customization.
 
-== Screenshots ==
+## 📸 Screenshots
 
-1. Dashboard View – Overview of CRM activity  
-   ![screenshot-1](screenshot-1.png)
+### Dashboard View
+![Dashboard](screenshot-1.png)
 
-2. Activity Log – View all interactions and CRM actions  
-   ![screenshot-2](screenshot-2.png)
+### Activity Log
+![Activity Log](screenshot-2.png)
 
-3. Projects Page – Track customer projects and stages  
-   ![screenshot-3](screenshot-3.png)
+### Projects View
+![Projects](screenshot-3.png)
 
-4. Reports – Export and filter sales reports  
-   ![screenshot-4](screenshot-4.png)
+### Sales Reports
+![Reports](screenshot-4.png)
+
 
 == Changelog ==
 
