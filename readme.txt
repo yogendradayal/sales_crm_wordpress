@@ -57,16 +57,16 @@ Yes, the plugin is developer-friendly with filters, actions, and REST API endpoi
 == Screenshots ==
 
 1. Dashboard View – Overview of CRM activity  
-   ![screenshot-1](assets/screenshot-1.png)
+   ![screenshot-1](screenshot-1.png)
 
 2. Activity Log – View all interactions and CRM actions  
-   ![screenshot-2](assets/screenshot-2.png)
+   ![screenshot-2](screenshot-2.png)
 
 3. Projects Page – Track customer projects and stages  
-   ![screenshot-3](assets/screenshot-3.png)
+   ![screenshot-3](screenshot-3.png)
 
 4. Reports – Export and filter sales reports  
-   ![screenshot-4](assets/screenshot-4.png)
+   ![screenshot-4](screenshot-4.png)
 
 == Changelog ==
 
